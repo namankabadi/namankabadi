@@ -8,14 +8,14 @@
 
 ## 🔹 About Me  
 - 👨‍💻 Full Stack Developer with hands-on experience in **Java, Spring Boot, React.js, REST APIs, MySQL, MongoDB**  
-- 📊 Skilled in **OOP, SOLID principles, SDLC & Agile methodologies**  
+- 📊 Strong Understanding  in **Object Oriented Programming Concepts, SOLID principles, SDLC Life cycle & Agile methodologies**  
 - 🤝 Quick learner with strong **problem-solving skills** and a love for teamwork  
-- 🎯 Goal: Grow into a **high-impact developer** building products at scale  
+- 🎯 **Goal**: Grow into a high-impact **software engineer** who builds scalable products, solves real-world problems with clean and efficient code, and contributes meaningfully to the success of the organization.
 
 ---
 
 ## 🎓 Education  
-- **B.E. in Computer Science** – SDM College of Engineering & Technology (2020–2024) | CGPA: 8.15  
+- **B.E. in Computer Science** – SDM College of Engineering & Technology (2020–2024) | CGPA: 8.25  
 - **PUC** – P.C. Jabin College of Science (2018–2020) | 87.67%  
 - **SSLC** – Giants English Medium School (2015–2018) | 91%  
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 🌟 Highlight Projects  
+## 🌟 Highlight of Projects  
 - 🎶 [**Impact of Music on Human Brain**](https://github.com/namankabadi/Impact_Of_Music_On_Human_Brain) – EEG analysis with ML to study music’s effect on brain signals  
 - 🤖 AI & ML research projects – NLP, Transformers, Fine-tuning LLMs  
 - 💻 Full Stack applications with **Spring Boot + React.js**  
@@ -68,9 +68,9 @@
 ---
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-kabadi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namankabadi/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namankabadi)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:namankabadi50@gmail.com)  
 
 ---
 ✨ _"Code. Learn. Build. Repeat."_ ✨
