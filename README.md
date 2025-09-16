@@ -51,12 +51,11 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=namankabadi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namankabadi&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>  
+  <img src="https://streak-stats.demolab.com?user=namankabadi&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
 ---
 
