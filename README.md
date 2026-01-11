@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Naman Kabadi  
 
-💻 **Associate Engineer @ TEKsystems Global Services** | 🎓 B.E. in Computer Science (2024)  
+💻 **Software Engineer @ TEKsystems Global Services** | 🎓 B.E. in Computer Science (2024)  
 🌱 Passionate about **Full Stack Development, Cloud, and AI/ML Research**  
 🚀 Building scalable real-world applications & always eager to learn new tech  
 
