@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Naman Kabadi  
+# Hi there, I'm Naman Kabadi  
 
 💻 **Software Engineer @ TEKsystems Global Services** | 🎓 B.E. in Computer Science (2024)  
 🌱 Passionate about **Full Stack Development, Cloud, and AI/ML Research**  
